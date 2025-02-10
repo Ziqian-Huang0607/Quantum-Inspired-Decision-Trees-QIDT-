@@ -13,6 +13,6 @@ Quantum-Inspired Decision Trees (QIDT) is an innovative machine learning method 
 To use QIDT, simply clone this repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/qidt.git
+git clone https://github.com/Ziqian-Huang0607/qidt.git
 cd qidt
 pip install -r requirements.txt
