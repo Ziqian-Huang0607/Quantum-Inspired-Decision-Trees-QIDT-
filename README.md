@@ -16,3 +16,4 @@ To use QIDT, simply clone this repository and install the required dependencies.
 git clone https://github.com/Ziqian-Huang0607/Quantum-Inspired-Decision-Trees-QIDT-.git
 cd qidt
 pip install -r requirements.txt
+python 
